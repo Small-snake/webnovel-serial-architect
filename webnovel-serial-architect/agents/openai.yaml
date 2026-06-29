@@ -1,0 +1,6 @@
+interface:
+  display_name: "Webnovel Serial Architect"
+  short_description: "Plan webnovel pitches, openings, and rolling outlines."
+  default_prompt: "Use $webnovel-serial-architect to turn my webnovel idea into an inspiration bank, submission outline, opening plan, and rolling outline."
+policy:
+  allow_implicit_invocation: true
