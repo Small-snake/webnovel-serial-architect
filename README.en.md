@@ -47,3 +47,7 @@ Use $webnovel-serial-architect to plan my first ten chapters without deciding th
 ```text
 Use $webnovel-serial-architect to continue from these drafted chapters and build a rolling outline for the next 10 chapters.
 ```
+
+## License
+
+This project is open sourced under the [MIT License](LICENSE). You may use, copy, modify, distribute, and use it commercially, provided that the original copyright notice and license text are retained.
