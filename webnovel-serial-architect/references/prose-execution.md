@@ -6,6 +6,8 @@ Use this reference when the user asks to draft, rewrite, continue, or diagnose a
 
 Write prose that serves the serial promise already chosen. Do not flatten the user's voice into generic webnovel narration. Preserve viewpoint, tension, and the story's current level of uncertainty.
 
+When drafting Chinese webnovel prose, default to Chinese output and Chinese section labels. Do not mix in English headings or labels unless the user asks for bilingual or English output.
+
 ## Before Drafting
 
 Check or ask for these only when missing:

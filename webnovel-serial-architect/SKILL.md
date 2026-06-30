@@ -20,7 +20,7 @@ Classify the user's current state before producing output:
 1. **Inspiration capture**: They have fragments, images, tropes, character ideas, settings, scenes, phrases, or market observations.
 2. **Market positioning**: They need genre, target reader, promise, core emotional payoff, or long-form viability.
 3. **Submission outline**: They need a pitch-ready outline for editors, platforms, or self-evaluation.
-4. **Opening execution**: They want to write the first chapter, first three chapters, or first ten chapters.
+4. **Opening / prose execution**: They want to plan or draft the first chapter, first three chapters, first ten chapters, scene prose, or revision variants.
 5. **Rolling outline**: They have already written chapters and need continuation, repair, or expansion.
 6. **Block diagnosis**: They are stuck, doubting the premise, or unable to move from outline to prose.
 
